@@ -16,7 +16,7 @@ http://localhost:8080/SpringRESTFull_api_UsingOAuth2/oauth/token?grant_type=refr
       
       
       
-GET   http://localhost:8080/SpringRESTFull_api_UsingOAuth2/user/?access_token="insert Token Here"
+GET   http://localhost:8080/SpringRESTFull_api_UsingOAuth2/user/?access_token= " Insert Token Here"
 
 GET   http://localhost:8080/SpringRESTFull_api_UsingOAuth2/user/2/?access_token=
 
